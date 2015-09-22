@@ -2,5 +2,6 @@
 %define device deb
 %define vendor asus
 %define vendor_pretty Asus
-%define device_pretty Nexus 7 (2013)
+%define device_pretty Nexus 7 (2013 LTE)
+%define installable_zip 1
 %include rpm/dhd/droid-hal-device.inc
